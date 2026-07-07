@@ -1,4 +1,4 @@
-package JavaByHarry.TakingInput_005;
+package JavaByHarry.J_005_TakingInput;
 import java.util.Scanner;
 
 

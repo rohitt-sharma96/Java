@@ -1,4 +1,4 @@
-package JavaByHarry.Literal_004;
+package JavaByHarry.J_004_Literals;
 
 public class Identifier_Literal {
     //    Literal = Koi constant value jo assign ho sake koi variable mein user literal kehenge

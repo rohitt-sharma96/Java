@@ -1,4 +1,4 @@
-package JavaByHarry.Variable_DataTypes_003;
+package JavaByHarry.J_003_DataTypes;
 
 public class Variable {
     public static void main(){
